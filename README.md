@@ -14,7 +14,7 @@
 
 JSON is a common standard used by websites and APIs and even natively supported by modern databases such as PostgreSQL. In this article, we’ll present a tutorial on how to handle JSON data with Python
 
-For a detailed explanation, see our [blog post](https://oxylabs.io/blog/python-parse-json).
+For a detailed explanation, see our [blog post](https://oxy.yt/9rL7).
 
 ## What is JSON?
 
@@ -320,4 +320,4 @@ print(type(country_object))
 ```
 
 
-If you wish to find out more about Reading & Parsing JSON Data With Python, see our [blog post](https://oxylabs.io/blog/python-parse-json).
+If you wish to find out more about Reading & Parsing JSON Data With Python, see our [blog post](https://oxy.yt/9rL7).
